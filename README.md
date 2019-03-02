@@ -1,3 +1,5 @@
+#文本比较算法myers的实现
+
 # Myers Diff
 
 Myers-Diff的Golang实现，具体见[Git是怎样生成diff的：Myers算法](http://cjting.me/misc/how-git-generate-diff/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)。
